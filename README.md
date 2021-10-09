@@ -11,6 +11,9 @@ Utilize any Python 3.X version and install the requirements.txt with pip. I sugg
 Additionally make sure you have your PostgreSQL Database set up to manipulate data with SQL queries.
 (Change the config file with your DB info)
 
+For this to work, you have to populate your stocks table, so the tracker can compare cashtags taken from reddit against real cashtags.
+Any free API for stocks would work.
+
 
 ## Lessons 
 
